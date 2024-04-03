@@ -1,0 +1,7 @@
+.idea/
+.vscode/
+*venv/
+django_venv/
+*.pyc
+__pycache__/
+db.*
